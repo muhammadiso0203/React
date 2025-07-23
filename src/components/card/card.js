@@ -12,7 +12,7 @@ function Card() {
     <section className='card'>
       <div className='card__wrapper'>
         <div className='card__content'>
-          <img src={card3} alt="" />
+          <img src={card1} alt="" />
           <h1>Naxly as the Winners in Global Agency Awards</h1>
           <p>Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups.</p>
         </div>
