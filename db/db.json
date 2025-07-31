@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "98e8",
+      "fname": "muhammad",
+      "lname": "ali",
+      "age": 19,
+      "gender": "male"
+    }
+  ]
+}
